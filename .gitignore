@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#docs
+docs/
+.cursor/rules/ai.mdc
+.cursor/rules/api.mdc
+.cursor/rules/core.mdc
+.cursor/rules/db.mdc
