@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playwrite+HU:wght@100..400&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+
+
+body {
+  font-family: 'Tiktok Sans', sans-serif;
+}
+
+@theme {
+  --color-primary: #001F54;
+  --color-secondary: #496ECC;
+  --color-tertiary: #c9ada7;
+  --color-accent: #ff6b35;
+  --color-success: #10B981;
+  --color-error: #DC2626;
+  --color-background: #FEFCFB;
+  --color-heading: #080E21;
+  --color-text: #1e1e1e;
+  --color-text-secondary: #6B7280;
+}
